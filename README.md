@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paweł Mroczek</h1>
-<h3 align="center">A dedicated young programmer from Poland, passionate about coding and technology.</h3>
+<h1>Hi 👋, I'm Paweł Mroczek</h1>
+<h3>A dedicated young programmer from Poland, passionate about coding and technology.</h3>
 
 - 🔭 I’m currently working on [Landwatch](https://github.com/exe-0535/landwatch)
   
