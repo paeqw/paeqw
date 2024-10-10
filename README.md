@@ -2,9 +2,9 @@
 <h3 align="center">A dedicated young programmer from Poland, passionate about coding and technology.</h3>
 
 - 🔭 I’m currently working on [Landwatch](https://github.com/exe-0535/landwatch)
-- 
+  
 - 🌱 I’m currently learning **django**
-- 
+  
 - 📫 How to reach me **pmroczek05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
