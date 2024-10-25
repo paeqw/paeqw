@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Landwatch](https://github.com/exe-0535/landwatch)
   
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **FastAPI**
   
 - 📫 How to reach me **pmroczek05@gmail.com**
 
