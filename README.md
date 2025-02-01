@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paweł Mroczek</h1>
 <h3>A dedicated young programmer from Poland, passionate about coding and technology.</h3>
 
-- 🔭 I’m currently working on [Landwatch](https://github.com/exe-0535/landwatch)
+- 🔭 I’m currently working on 👀
   
 - 🌱 I’m currently learning **FastAPI**
   
